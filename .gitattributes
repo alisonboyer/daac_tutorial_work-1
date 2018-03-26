@@ -1,0 +1,1 @@
+gimms3g_ndvi_1982-2012.nc4 filter=lfs diff=lfs merge=lfs -text
